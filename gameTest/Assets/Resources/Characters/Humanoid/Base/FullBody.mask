@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FullBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Character_Base
+    m_Weight: 0
+  - m_Path: Character_Base_Armature
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/LeftUpperLeg
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/LeftUpperLeg/LeftLowerLeg
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/LeftUpperLeg/LeftLowerLeg/LeftFoot
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/RightUpperLeg
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/RightUpperLeg/RightLowerLeg
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/RightUpperLeg/RightLowerLeg/RightFoot
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/LeftUpperArm
+    m_Weight: 1
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/LeftUpperArm/LeftLowerArm
+    m_Weight: 1
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/LeftUpperArm/LeftLowerArm/LeftHand
+    m_Weight: 1
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/Neck
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/Neck/Head
+    m_Weight: 0
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/RightUpperArm
+    m_Weight: 1
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/RightUpperArm/RightLowerArm
+    m_Weight: 1
+  - m_Path: Character_Base_Armature/BodyControl/Hips/Torso/RightUpperArm/RightLowerArm/RightHand
+    m_Weight: 1
+  - m_Path: Character_Base_Model_Head
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Arm_Lower
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Arm_Upper
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Foot
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Hand
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Leg_Lower
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Left_Leg_Upper
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Neck
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Arm_Lower
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Arm_Upper
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Foot
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Hand
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Leg_Lower
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Right_Leg_Upper_001
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Torso_Lower
+    m_Weight: 0
+  - m_Path: Character_Base_Model_Torso_Upper
+    m_Weight: 0
+  - m_Path: Cube
+    m_Weight: 0
+  - m_Path: Cube_001
+    m_Weight: 0
